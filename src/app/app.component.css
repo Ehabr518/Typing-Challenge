@@ -1,0 +1,10 @@
+.Pending {
+    color: black;
+}
+
+.Active {
+    color: green;
+}
+.Deactive {
+    color: red;
+}
